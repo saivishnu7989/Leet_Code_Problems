@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
