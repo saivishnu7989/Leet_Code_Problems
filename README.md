@@ -14,9 +14,14 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
