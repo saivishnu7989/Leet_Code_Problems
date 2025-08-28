@@ -14,6 +14,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -23,5 +24,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
