@@ -21,6 +21,7 @@
 | [0035-search-insert-position](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
@@ -32,4 +33,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
