@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -26,6 +27,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 ## Two Pointers
 |  |
@@ -45,5 +47,10 @@
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
