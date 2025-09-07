@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,4 +55,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
