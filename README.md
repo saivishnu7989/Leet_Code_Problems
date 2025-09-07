@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1603-running-sum-of-1d-array) |
+| [1791-richest-customer-wealth](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1603-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
