@@ -6,9 +6,9 @@ class Solution(object):
         """
         if n<1:
             return False
-        for p in [2,3,5]:
-            while n%p==0:
-                n//=p
+        for pf in [2,3,5]:
+            while n%pf==0:
+                n//=pf
         return n==1
         
         
