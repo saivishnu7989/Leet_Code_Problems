@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
+| [1603-running-sum-of-1d-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1603-running-sum-of-1d-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0258-add-digits) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
