@@ -63,6 +63,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0412-fizz-buzz) |
