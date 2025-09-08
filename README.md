@@ -14,6 +14,7 @@
 | [0263-ugly-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0412-fizz-buzz) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
