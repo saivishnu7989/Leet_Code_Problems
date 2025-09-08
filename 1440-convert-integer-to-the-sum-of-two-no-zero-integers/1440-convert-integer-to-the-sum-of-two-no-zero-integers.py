@@ -6,9 +6,7 @@ class Solution(object):
         """
         for i in range(1,n):
             j=n-i
-            if self.is_zero(i) and self.is_zero(j):
+            if "0" not in str(i) + str(j):
                 return [i,j]
         return []
-    def is_zero(self,k):
-        return "0" not in str(k)
         
