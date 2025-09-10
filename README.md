@@ -25,6 +25,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0035-search-insert-position) |
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
@@ -94,4 +96,8 @@
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
