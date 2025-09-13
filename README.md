@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
@@ -59,11 +60,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## String
@@ -107,4 +110,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
