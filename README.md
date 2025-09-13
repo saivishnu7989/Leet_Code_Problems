@@ -31,6 +31,7 @@
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
