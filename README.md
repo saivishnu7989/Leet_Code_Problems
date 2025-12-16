@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0263-ugly-number) |
@@ -35,6 +36,7 @@
 | [0136-single-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
@@ -54,6 +56,7 @@
 | [0011-container-with-most-water](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0908-middle-of-the-linked-list) |
