@@ -126,4 +126,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
