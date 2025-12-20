@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0263-ugly-number) |
@@ -59,6 +60,7 @@
 | [0027-remove-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0908-middle-of-the-linked-list) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Sorting
