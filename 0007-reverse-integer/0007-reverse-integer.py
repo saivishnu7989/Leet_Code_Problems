@@ -1,9 +1,5 @@
 class Solution(object):
     def reverse(self, x):
-        """
-        :type x: int
-        :rtype: int
-        """
         min,max=-2**31,(2**31)-1
         res=0
         if x>0:
