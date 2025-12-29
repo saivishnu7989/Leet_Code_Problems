@@ -41,6 +41,7 @@
 | [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0283-move-zeroes) |
 | [1603-running-sum-of-1d-array](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/1603-running-sum-of-1d-array) |
@@ -73,6 +74,7 @@
 | [0169-majority-element](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -144,4 +146,8 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0577-employee-bonus) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/saivishnu7989/Leet_Code_Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
